@@ -1,2 +1,4 @@
 # sass-template
-extremely small sass template
+
+
+Extremely small sass template, simple as that.
