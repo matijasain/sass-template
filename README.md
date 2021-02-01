@@ -1,4 +1,4 @@
 # sass-template
 
 
-Extremely small sass template, simple as that.
+Just a small sass template boilerplate, simple as that.
